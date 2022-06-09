@@ -50,4 +50,4 @@ Markup
 «B14» Images are exported from the layout in jpg format.
 
 «B15» Groups of the same-type elements are in &lt;ul&gt; lists.
-«Bimg16» The &lt;address&gt; tag is only used in the footer.
+«B16» The &lt;address&gt; tag is only used in the footer.
